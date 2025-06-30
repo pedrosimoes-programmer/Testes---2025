@@ -11,9 +11,9 @@ def abrirZap():
 
 def enviarMsg(nome):
     pyautogui.write(nome)
+    time.sleep(2)
     pyautogui.click(209, 210) # -> Clica na pessoa pesquisada
-    pyautogui.press("enter")
-    pyautogui.write("Teste")
+    pyautogui.write("")
     pyautogui.press("enter")
 
 aleatorioNumero = random.randint(1, 9)
