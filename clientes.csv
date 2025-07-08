@@ -1,0 +1,1001 @@
+ID,Idade,Profissão,Salário Anual (R$)
+1,64,Analista de Dados,162576.99
+2,55,Designer,89061.95
+3,32,Professor,112776.08
+4,62,Desenvolvedor,38325.26
+5,28,Engenheiro,119296.16
+6,32,Advogado,89923.67
+7,53,Designer,40984.93
+8,22,Administrador,179363.76
+9,65,Engenheiro,198073.56
+10,35,Médico,65845.92
+11,32,Motorista,162536.06
+12,35,Desenvolvedor,139407.34
+13,50,Administrador,106484.37
+14,57,Administrador,194798.74
+15,60,Designer,34506.28
+16,19,Analista de Dados,52991.28
+17,20,Professor,153692.42
+18,60,Professor,27824.16
+19,44,Engenheiro,37801.35
+20,43,Médico,90414.99
+21,27,Vendedor,118580.76
+22,57,Vendedor,122475.75
+23,31,Administrador,64631.8
+24,46,Professor,75227.5
+25,29,Advogado,62247.63
+26,53,Engenheiro,98921.16
+27,21,Médico,76370.33
+28,64,Advogado,199128.56
+29,40,Engenheiro,107693.78
+30,46,Advogado,166583.42
+31,29,Engenheiro,73868.55
+32,50,Analista de Dados,124389.86
+33,56,Professor,168745.71
+34,50,Desenvolvedor,41319.77
+35,61,Desenvolvedor,23878.43
+36,24,Advogado,78578.7
+37,34,Desenvolvedor,56902.09
+38,27,Advogado,154648.19
+39,19,Vendedor,39183.29
+40,24,Motorista,173590.71
+41,21,Designer,81888.37
+42,62,Engenheiro,89600.54
+43,46,Designer,123236.17
+44,43,Analista de Dados,119556.19
+45,55,Designer,193009.34
+46,20,Advogado,124036.32
+47,58,Médico,52564.64
+48,53,Professor,33290.18
+49,35,Professor,90454.27
+50,27,Médico,54511.04
+51,51,Advogado,84706.68
+52,24,Desenvolvedor,141939.72
+53,59,Médico,129382.01
+54,43,Médico,187418.95
+55,37,Administrador,146596.16
+56,23,Administrador,20216.77
+57,64,Engenheiro,68692.62
+58,41,Advogado,86403.77
+59,31,Analista de Dados,24407.01
+60,52,Advogado,34464.89
+61,62,Motorista,112704.42
+62,22,Administrador,78672.07
+63,64,Advogado,118049.78
+64,43,Analista de Dados,28633.89
+65,52,Administrador,74321.36
+66,20,Médico,109493.68
+67,47,Motorista,106146.6
+68,29,Advogado,199609.13
+69,24,Desenvolvedor,112808.52
+70,41,Professor,95213.47
+71,47,Motorista,21608.45
+72,35,Médico,30703.39
+73,53,Médico,112131.15
+74,57,Engenheiro,120195.27
+75,33,Desenvolvedor,90887.09
+76,23,Administrador,38684.69
+77,34,Designer,121491.42
+78,44,Advogado,62176.64
+79,55,Advogado,162345.43
+80,33,Motorista,105437.69
+81,36,Professor,127772.79
+82,61,Analista de Dados,56084.77
+83,60,Administrador,80020.99
+84,42,Professor,53276.42
+85,19,Médico,59172.64
+86,36,Engenheiro,176629.61
+87,61,Analista de Dados,39147.19
+88,43,Motorista,93283.65
+89,34,Médico,140251.77
+90,31,Professor,97297.47
+91,48,Engenheiro,35021.27
+92,27,Administrador,36917.83
+93,26,Vendedor,143000.29
+94,60,Motorista,137718.0
+95,61,Médico,22372.36
+96,47,Designer,55186.67
+97,56,Administrador,133048.26
+98,64,Motorista,182631.68
+99,37,Professor,169098.47
+100,61,Advogado,162695.58
+101,45,Designer,190315.03
+102,22,Analista de Dados,179106.92
+103,64,Professor,197662.49
+104,65,Analista de Dados,55790.37
+105,36,Motorista,73987.72
+106,59,Designer,124574.14
+107,31,Engenheiro,143817.78
+108,35,Administrador,162579.76
+109,56,Médico,119251.53
+110,19,Advogado,92824.99
+111,48,Vendedor,75240.85
+112,54,Vendedor,186678.4
+113,43,Médico,55767.2
+114,65,Vendedor,99515.69
+115,24,Administrador,68198.39
+116,34,Designer,106626.62
+117,53,Motorista,73099.34
+118,65,Motorista,161669.12
+119,25,Engenheiro,154559.45
+120,55,Designer,131364.73
+121,50,Administrador,118202.33
+122,23,Médico,143951.89
+123,19,Designer,150310.09
+124,53,Administrador,66264.67
+125,26,Analista de Dados,131850.15
+126,33,Médico,120183.84
+127,56,Desenvolvedor,195144.1
+128,34,Administrador,31965.94
+129,28,Administrador,90293.69
+130,52,Vendedor,115451.44
+131,50,Analista de Dados,30070.08
+132,21,Analista de Dados,156916.28
+133,34,Engenheiro,126397.54
+134,49,Professor,127734.9
+135,51,Administrador,24223.34
+136,27,Vendedor,130644.39
+137,42,Engenheiro,49466.36
+138,30,Desenvolvedor,116895.88
+139,26,Motorista,130772.69
+140,49,Administrador,139537.18
+141,26,Professor,113362.13
+142,49,Designer,153134.28
+143,32,Médico,71663.99
+144,47,Advogado,68488.67
+145,65,Vendedor,43515.87
+146,21,Professor,95238.31
+147,46,Vendedor,133259.4
+148,28,Motorista,107858.14
+149,61,Designer,51396.58
+150,36,Professor,140333.8
+151,29,Vendedor,113365.99
+152,24,Professor,53839.83
+153,19,Professor,150843.04
+154,32,Motorista,184288.22
+155,65,Analista de Dados,137860.32
+156,34,Desenvolvedor,185936.55
+157,54,Designer,132459.38
+158,57,Vendedor,33931.22
+159,44,Desenvolvedor,165167.26
+160,35,Motorista,25266.81
+161,33,Médico,63363.84
+162,59,Desenvolvedor,91067.61
+163,26,Desenvolvedor,76152.98
+164,62,Médico,128146.6
+165,57,Advogado,129664.57
+166,57,Desenvolvedor,127996.4
+167,32,Vendedor,165824.03
+168,39,Desenvolvedor,76322.51
+169,29,Médico,38675.22
+170,38,Professor,68163.03
+171,52,Motorista,141878.01
+172,60,Desenvolvedor,162943.3
+173,19,Analista de Dados,164169.56
+174,26,Designer,146504.87
+175,23,Desenvolvedor,41110.48
+176,21,Professor,38940.64
+177,60,Médico,101473.73
+178,21,Engenheiro,109473.69
+179,58,Desenvolvedor,128222.12
+180,47,Desenvolvedor,180517.38
+181,31,Desenvolvedor,184382.16
+182,42,Professor,181543.82
+183,46,Designer,124033.33
+184,62,Desenvolvedor,99145.88
+185,51,Analista de Dados,35374.8
+186,31,Advogado,38908.41
+187,49,Administrador,111038.31
+188,32,Advogado,78611.97
+189,23,Analista de Dados,74051.35
+190,23,Analista de Dados,93131.06
+191,24,Vendedor,72579.78
+192,62,Vendedor,42830.52
+193,39,Engenheiro,150965.35
+194,51,Analista de Dados,80820.45
+195,21,Advogado,22213.15
+196,44,Administrador,72379.02
+197,37,Professor,144660.91
+198,19,Advogado,82897.02
+199,57,Administrador,168107.39
+200,22,Desenvolvedor,74937.89
+201,24,Desenvolvedor,165889.96
+202,19,Analista de Dados,171425.71
+203,24,Vendedor,54034.66
+204,48,Designer,94767.86
+205,40,Médico,33292.47
+206,63,Engenheiro,192846.08
+207,56,Analista de Dados,26411.29
+208,41,Desenvolvedor,158740.51
+209,40,Analista de Dados,56163.17
+210,51,Engenheiro,109875.82
+211,41,Professor,40506.78
+212,61,Advogado,103724.37
+213,24,Analista de Dados,170792.67
+214,22,Advogado,193944.09
+215,37,Motorista,90257.88
+216,54,Desenvolvedor,110379.06
+217,48,Designer,181909.43
+218,55,Professor,111268.12
+219,51,Desenvolvedor,76825.73
+220,23,Advogado,152738.99
+221,45,Designer,25092.71
+222,61,Médico,56795.77
+223,52,Vendedor,24127.76
+224,40,Engenheiro,24326.37
+225,26,Médico,153743.29
+226,56,Engenheiro,28072.81
+227,53,Professor,117074.47
+228,62,Motorista,102630.5
+229,28,Vendedor,190455.91
+230,37,Professor,198464.32
+231,26,Designer,103535.92
+232,59,Médico,142420.13
+233,33,Engenheiro,85831.3
+234,29,Administrador,69079.64
+235,48,Engenheiro,57902.7
+236,34,Administrador,169773.8
+237,40,Motorista,31820.12
+238,53,Advogado,197329.8
+239,53,Vendedor,126529.81
+240,50,Administrador,118928.47
+241,58,Professor,85392.12
+242,64,Vendedor,109561.1
+243,52,Professor,130817.99
+244,45,Vendedor,163762.11
+245,31,Vendedor,28696.34
+246,30,Médico,172372.89
+247,24,Analista de Dados,54854.98
+248,38,Vendedor,175696.24
+249,27,Advogado,124810.3
+250,28,Engenheiro,147108.87
+251,40,Professor,32413.33
+252,21,Designer,152334.27
+253,39,Engenheiro,49766.8
+254,22,Analista de Dados,82083.83
+255,46,Vendedor,60053.28
+256,47,Advogado,110095.57
+257,22,Motorista,198610.31
+258,19,Engenheiro,32552.39
+259,36,Analista de Dados,163448.3
+260,65,Médico,176731.11
+261,53,Vendedor,163067.88
+262,20,Professor,168226.06
+263,47,Desenvolvedor,107410.76
+264,40,Motorista,82076.27
+265,27,Desenvolvedor,143370.06
+266,51,Analista de Dados,23461.79
+267,36,Médico,177106.51
+268,48,Analista de Dados,163605.15
+269,22,Vendedor,169434.3
+270,21,Motorista,187333.24
+271,64,Analista de Dados,179626.36
+272,53,Médico,66830.28
+273,20,Engenheiro,24849.69
+274,60,Advogado,196279.47
+275,55,Vendedor,185900.86
+276,31,Engenheiro,77565.62
+277,27,Engenheiro,131801.6
+278,60,Administrador,153881.24
+279,54,Motorista,138894.43
+280,59,Designer,106614.06
+281,34,Engenheiro,123703.7
+282,19,Administrador,153434.34
+283,57,Designer,76754.24
+284,19,Administrador,183070.13
+285,39,Motorista,60150.57
+286,56,Médico,136039.05
+287,56,Motorista,82979.13
+288,63,Desenvolvedor,120486.25
+289,23,Vendedor,172395.47
+290,20,Engenheiro,90670.49
+291,61,Motorista,55256.58
+292,27,Administrador,199779.42
+293,57,Motorista,194211.81
+294,57,Analista de Dados,93001.19
+295,38,Administrador,153624.55
+296,61,Motorista,58120.08
+297,63,Designer,28383.09
+298,29,Médico,186566.89
+299,48,Engenheiro,191105.22
+300,42,Analista de Dados,116452.94
+301,63,Advogado,131849.48
+302,34,Engenheiro,187546.74
+303,37,Engenheiro,189515.78
+304,36,Administrador,56005.92
+305,34,Designer,57159.83
+306,23,Professor,100828.9
+307,55,Administrador,68305.08
+308,30,Administrador,87877.5
+309,55,Médico,72812.52
+310,37,Professor,167220.04
+311,58,Vendedor,189516.33
+312,27,Analista de Dados,89458.66
+313,41,Vendedor,123969.38
+314,35,Desenvolvedor,125884.53
+315,39,Motorista,27208.6
+316,39,Motorista,194454.77
+317,49,Desenvolvedor,188134.99
+318,29,Administrador,107718.09
+319,38,Vendedor,129899.97
+320,21,Motorista,164424.38
+321,48,Médico,128849.69
+322,34,Vendedor,35007.02
+323,20,Médico,89267.32
+324,56,Professor,133958.16
+325,52,Desenvolvedor,92734.3
+326,55,Engenheiro,118369.05
+327,60,Médico,124929.4
+328,39,Analista de Dados,180949.71
+329,22,Vendedor,132721.29
+330,25,Desenvolvedor,32672.42
+331,24,Analista de Dados,166906.54
+332,40,Designer,90971.63
+333,40,Engenheiro,51613.63
+334,56,Desenvolvedor,190963.28
+335,51,Desenvolvedor,140110.2
+336,43,Vendedor,140460.39
+337,63,Analista de Dados,41556.25
+338,37,Designer,184440.84
+339,28,Administrador,33114.72
+340,38,Administrador,187853.12
+341,65,Motorista,27403.1
+342,56,Médico,89628.63
+343,54,Administrador,53581.7
+344,23,Desenvolvedor,50455.3
+345,40,Médico,133325.92
+346,54,Desenvolvedor,36271.91
+347,32,Analista de Dados,36049.58
+348,41,Desenvolvedor,141397.15
+349,38,Desenvolvedor,26045.54
+350,19,Analista de Dados,87787.73
+351,32,Desenvolvedor,55100.68
+352,60,Médico,127306.2
+353,25,Médico,61513.1
+354,25,Engenheiro,152109.55
+355,43,Desenvolvedor,46462.34
+356,35,Analista de Dados,44718.92
+357,55,Designer,115933.64
+358,52,Motorista,181658.6
+359,19,Designer,117502.92
+360,51,Designer,178657.16
+361,28,Médico,128542.43
+362,45,Professor,45530.08
+363,27,Advogado,93965.0
+364,46,Desenvolvedor,38853.37
+365,43,Médico,195349.81
+366,47,Engenheiro,140944.94
+367,31,Motorista,38956.79
+368,23,Vendedor,35911.58
+369,65,Desenvolvedor,150847.82
+370,63,Engenheiro,57222.4
+371,61,Vendedor,98608.02
+372,27,Analista de Dados,60806.46
+373,39,Vendedor,81738.76
+374,49,Motorista,161725.72
+375,26,Advogado,170116.9
+376,45,Desenvolvedor,167900.67
+377,56,Engenheiro,80133.84
+378,21,Analista de Dados,179336.09
+379,28,Administrador,33976.94
+380,38,Administrador,47932.27
+381,64,Administrador,92638.62
+382,31,Médico,75402.38
+383,64,Professor,102639.36
+384,20,Advogado,101895.85
+385,22,Engenheiro,53493.78
+386,43,Professor,86437.23
+387,53,Advogado,68003.21
+388,23,Analista de Dados,25761.1
+389,63,Advogado,85464.39
+390,23,Engenheiro,88448.65
+391,24,Professor,135063.02
+392,35,Professor,89818.64
+393,36,Administrador,70389.08
+394,37,Advogado,111445.57
+395,40,Médico,121054.84
+396,40,Advogado,26949.8
+397,46,Designer,74490.95
+398,40,Professor,191836.66
+399,44,Analista de Dados,41422.55
+400,37,Administrador,58759.4
+401,46,Vendedor,141633.1
+402,61,Analista de Dados,81304.77
+403,64,Administrador,40080.39
+404,23,Professor,80895.33
+405,49,Administrador,26788.91
+406,33,Vendedor,49693.57
+407,56,Engenheiro,113189.97
+408,32,Médico,21907.64
+409,53,Médico,94357.42
+410,44,Administrador,135662.07
+411,33,Designer,92450.32
+412,39,Professor,118100.84
+413,47,Motorista,104605.7
+414,21,Analista de Dados,25695.42
+415,60,Vendedor,86603.3
+416,39,Administrador,101903.18
+417,39,Administrador,163141.1
+418,39,Administrador,166182.9
+419,51,Engenheiro,135609.55
+420,59,Analista de Dados,146874.23
+421,63,Analista de Dados,167004.99
+422,61,Designer,163052.22
+423,20,Desenvolvedor,156658.87
+424,54,Designer,179505.77
+425,32,Engenheiro,52989.31
+426,51,Analista de Dados,125768.47
+427,49,Advogado,199563.49
+428,23,Designer,107590.88
+429,30,Analista de Dados,51842.18
+430,26,Administrador,196543.81
+431,27,Engenheiro,49731.33
+432,38,Desenvolvedor,179174.72
+433,42,Médico,181031.96
+434,21,Desenvolvedor,125268.89
+435,53,Engenheiro,98945.25
+436,42,Administrador,63419.78
+437,31,Administrador,129250.46
+438,54,Designer,135744.66
+439,27,Engenheiro,73808.24
+440,30,Administrador,175327.44
+441,46,Médico,159666.47
+442,46,Analista de Dados,70398.79
+443,23,Vendedor,182272.87
+444,31,Vendedor,58872.12
+445,19,Engenheiro,38796.04
+446,52,Vendedor,57630.41
+447,28,Professor,171676.05
+448,25,Engenheiro,166093.43
+449,52,Designer,197365.54
+450,46,Motorista,168760.86
+451,61,Administrador,37812.15
+452,62,Administrador,165737.02
+453,55,Professor,134631.72
+454,57,Administrador,127661.07
+455,35,Motorista,176008.14
+456,39,Desenvolvedor,165468.08
+457,61,Engenheiro,121994.73
+458,46,Motorista,46982.44
+459,32,Engenheiro,88568.23
+460,41,Desenvolvedor,84074.76
+461,52,Advogado,99731.57
+462,23,Engenheiro,183572.98
+463,44,Engenheiro,178484.29
+464,25,Administrador,50606.93
+465,23,Vendedor,172913.23
+466,51,Analista de Dados,153175.6
+467,21,Analista de Dados,198294.94
+468,40,Engenheiro,57945.67
+469,22,Vendedor,125040.15
+470,44,Motorista,46374.61
+471,44,Desenvolvedor,61170.38
+472,55,Engenheiro,158462.85
+473,26,Advogado,40546.96
+474,31,Engenheiro,45846.83
+475,55,Professor,48539.6
+476,49,Médico,190776.98
+477,35,Advogado,34877.86
+478,61,Professor,46293.03
+479,60,Advogado,150334.23
+480,53,Professor,58908.23
+481,30,Vendedor,145439.94
+482,26,Administrador,44443.97
+483,25,Administrador,31672.01
+484,48,Engenheiro,122089.06
+485,35,Designer,50719.11
+486,48,Advogado,48987.04
+487,60,Professor,170557.97
+488,60,Advogado,183853.98
+489,53,Vendedor,44681.55
+490,22,Professor,20519.17
+491,37,Vendedor,48777.55
+492,30,Administrador,53646.14
+493,41,Advogado,138548.64
+494,36,Advogado,66560.89
+495,26,Desenvolvedor,168125.03
+496,50,Vendedor,134502.48
+497,26,Designer,140368.61
+498,46,Desenvolvedor,53681.2
+499,20,Analista de Dados,101865.51
+500,23,Vendedor,115112.77
+501,30,Professor,85659.75
+502,39,Analista de Dados,40180.33
+503,33,Professor,199844.51
+504,37,Médico,158369.68
+505,34,Designer,31410.0
+506,47,Desenvolvedor,92143.31
+507,33,Professor,41520.75
+508,65,Vendedor,167016.25
+509,35,Engenheiro,181934.03
+510,21,Professor,140138.25
+511,27,Motorista,49848.53
+512,29,Professor,181419.0
+513,21,Designer,169906.83
+514,23,Advogado,147106.2
+515,29,Administrador,167553.56
+516,25,Analista de Dados,183359.27
+517,33,Analista de Dados,108525.3
+518,30,Advogado,90918.8
+519,20,Motorista,42541.75
+520,37,Médico,54043.51
+521,21,Advogado,141845.8
+522,22,Administrador,84697.43
+523,56,Vendedor,80524.87
+524,49,Motorista,83545.42
+525,55,Engenheiro,100774.2
+526,62,Analista de Dados,111824.83
+527,32,Motorista,174196.13
+528,25,Professor,56778.35
+529,53,Professor,123018.06
+530,20,Designer,138281.71
+531,62,Desenvolvedor,27405.19
+532,57,Desenvolvedor,53856.57
+533,47,Administrador,134995.44
+534,47,Desenvolvedor,121644.97
+535,36,Motorista,124715.56
+536,30,Vendedor,23767.26
+537,52,Motorista,61984.4
+538,46,Motorista,72653.47
+539,20,Designer,63871.25
+540,51,Vendedor,161760.78
+541,50,Professor,56538.81
+542,58,Analista de Dados,120118.85
+543,64,Motorista,198721.36
+544,44,Vendedor,56694.66
+545,57,Engenheiro,130613.95
+546,29,Administrador,64329.88
+547,40,Administrador,192691.75
+548,56,Designer,198748.59
+549,57,Professor,123839.6
+550,61,Administrador,197890.07
+551,59,Advogado,186483.88
+552,19,Médico,30556.47
+553,45,Médico,63225.24
+554,48,Vendedor,195942.07
+555,53,Analista de Dados,62921.59
+556,45,Motorista,40024.23
+557,38,Designer,84039.47
+558,26,Motorista,173468.01
+559,21,Vendedor,120787.03
+560,49,Vendedor,133405.01
+561,56,Engenheiro,94954.8
+562,22,Professor,130245.44
+563,34,Professor,20952.08
+564,63,Médico,129518.71
+565,42,Desenvolvedor,32922.25
+566,61,Motorista,197514.59
+567,57,Administrador,142044.28
+568,25,Vendedor,66268.72
+569,37,Desenvolvedor,196610.51
+570,65,Motorista,106710.79
+571,60,Advogado,150309.88
+572,29,Engenheiro,185949.53
+573,60,Professor,154548.46
+574,34,Designer,84140.62
+575,52,Analista de Dados,175978.95
+576,45,Advogado,45144.27
+577,36,Designer,108327.59
+578,27,Desenvolvedor,115485.51
+579,63,Motorista,168320.59
+580,57,Médico,94793.78
+581,59,Administrador,56667.03
+582,22,Motorista,195965.79
+583,47,Advogado,151096.87
+584,46,Desenvolvedor,185706.8
+585,47,Professor,159619.96
+586,58,Professor,181493.41
+587,33,Motorista,175725.56
+588,38,Designer,178648.9
+589,26,Designer,76073.11
+590,56,Médico,124249.08
+591,35,Professor,70649.43
+592,41,Desenvolvedor,40403.33
+593,19,Professor,132681.77
+594,33,Motorista,169140.09
+595,40,Engenheiro,69935.68
+596,58,Advogado,153356.8
+597,27,Professor,96352.84
+598,54,Engenheiro,199572.93
+599,60,Vendedor,191676.77
+600,22,Administrador,112988.15
+601,57,Designer,97290.26
+602,61,Médico,33203.7
+603,38,Engenheiro,186352.71
+604,58,Administrador,128907.95
+605,24,Advogado,39045.68
+606,25,Professor,183283.33
+607,56,Administrador,103121.35
+608,44,Vendedor,186795.87
+609,54,Designer,196684.27
+610,35,Administrador,123956.81
+611,58,Analista de Dados,66518.26
+612,41,Advogado,132840.03
+613,36,Motorista,25127.5
+614,52,Vendedor,136939.58
+615,43,Advogado,88322.43
+616,62,Engenheiro,185012.38
+617,33,Designer,182964.32
+618,35,Analista de Dados,54747.46
+619,42,Vendedor,42135.22
+620,23,Analista de Dados,109812.35
+621,26,Vendedor,165454.85
+622,49,Administrador,43244.2
+623,27,Professor,157744.29
+624,38,Advogado,96166.01
+625,50,Designer,46364.71
+626,58,Professor,129324.68
+627,57,Engenheiro,107658.13
+628,45,Designer,21006.81
+629,60,Advogado,52300.85
+630,50,Analista de Dados,91856.1
+631,51,Engenheiro,54055.99
+632,40,Professor,173413.11
+633,64,Médico,117866.52
+634,19,Vendedor,135863.88
+635,62,Administrador,53129.86
+636,22,Analista de Dados,116408.25
+637,47,Motorista,89559.93
+638,55,Professor,83774.1
+639,39,Médico,55251.67
+640,37,Engenheiro,99183.31
+641,26,Designer,33470.14
+642,47,Analista de Dados,51888.15
+643,47,Analista de Dados,72534.59
+644,28,Professor,57292.4
+645,59,Motorista,188969.8
+646,46,Motorista,130130.53
+647,47,Administrador,151308.81
+648,63,Designer,21623.15
+649,65,Administrador,88344.16
+650,50,Advogado,56119.47
+651,52,Designer,185740.29
+652,59,Médico,155479.17
+653,37,Designer,109869.81
+654,46,Administrador,194181.83
+655,35,Designer,137429.94
+656,25,Analista de Dados,92495.64
+657,64,Médico,130725.64
+658,63,Médico,123436.05
+659,40,Engenheiro,102382.09
+660,29,Designer,197558.41
+661,35,Vendedor,117253.04
+662,58,Engenheiro,186248.29
+663,41,Motorista,197820.98
+664,42,Motorista,169554.17
+665,62,Professor,177862.39
+666,39,Motorista,21399.8
+667,63,Médico,43193.09
+668,40,Médico,130946.54
+669,37,Engenheiro,56342.01
+670,54,Designer,155228.31
+671,40,Administrador,141434.4
+672,37,Médico,159984.16
+673,34,Engenheiro,152906.1
+674,58,Advogado,60472.38
+675,47,Analista de Dados,40636.39
+676,50,Vendedor,54882.99
+677,21,Analista de Dados,85353.01
+678,48,Analista de Dados,181943.33
+679,51,Analista de Dados,91499.45
+680,21,Médico,40711.32
+681,45,Administrador,51549.94
+682,57,Administrador,51640.81
+683,48,Motorista,123514.44
+684,56,Médico,75074.98
+685,51,Advogado,57182.44
+686,30,Analista de Dados,33650.8
+687,52,Professor,37407.84
+688,30,Advogado,98749.52
+689,43,Desenvolvedor,99306.92
+690,62,Desenvolvedor,101820.54
+691,27,Analista de Dados,193357.24
+692,61,Professor,120433.97
+693,21,Professor,116219.75
+694,44,Desenvolvedor,156007.63
+695,38,Motorista,136606.42
+696,56,Analista de Dados,192807.41
+697,54,Administrador,83347.26
+698,62,Desenvolvedor,198495.8
+699,64,Analista de Dados,63416.05
+700,47,Professor,110358.29
+701,63,Administrador,66384.38
+702,24,Vendedor,94518.77
+703,38,Médico,47829.82
+704,33,Administrador,99103.57
+705,51,Administrador,189437.72
+706,21,Professor,167859.14
+707,59,Médico,172634.76
+708,32,Administrador,195537.63
+709,28,Médico,122947.89
+710,65,Analista de Dados,149009.92
+711,57,Analista de Dados,96342.43
+712,30,Analista de Dados,185157.1
+713,34,Vendedor,64913.61
+714,51,Engenheiro,125737.85
+715,21,Designer,177838.11
+716,45,Analista de Dados,123552.13
+717,31,Engenheiro,45500.41
+718,41,Professor,154577.29
+719,64,Vendedor,160639.5
+720,34,Administrador,62308.94
+721,56,Vendedor,43206.72
+722,24,Analista de Dados,52075.5
+723,37,Vendedor,95891.83
+724,25,Administrador,117471.36
+725,46,Engenheiro,118939.77
+726,60,Desenvolvedor,20857.37
+727,45,Motorista,77195.54
+728,60,Engenheiro,159797.8
+729,29,Advogado,41883.18
+730,31,Engenheiro,162645.8
+731,56,Advogado,123279.57
+732,22,Médico,56966.4
+733,25,Vendedor,165083.4
+734,26,Motorista,133060.8
+735,33,Designer,107523.65
+736,30,Desenvolvedor,192255.27
+737,40,Vendedor,44519.69
+738,29,Designer,82811.84
+739,25,Administrador,132610.5
+740,26,Médico,87277.43
+741,22,Vendedor,199887.28
+742,29,Professor,21351.39
+743,56,Advogado,28921.23
+744,48,Administrador,95431.46
+745,30,Engenheiro,73774.02
+746,35,Desenvolvedor,57516.2
+747,45,Administrador,92689.99
+748,20,Professor,155261.96
+749,19,Designer,111638.36
+750,54,Analista de Dados,42194.19
+751,56,Administrador,108520.58
+752,62,Professor,83204.98
+753,57,Administrador,85410.96
+754,44,Designer,158825.4
+755,45,Professor,37017.67
+756,62,Administrador,82206.15
+757,65,Designer,174152.79
+758,39,Advogado,90552.4
+759,50,Vendedor,176175.31
+760,39,Designer,56552.0
+761,21,Vendedor,45699.17
+762,26,Engenheiro,109558.33
+763,35,Médico,27092.69
+764,27,Advogado,124103.66
+765,37,Advogado,102038.14
+766,38,Administrador,51032.51
+767,55,Advogado,40733.04
+768,63,Advogado,133318.72
+769,25,Administrador,59776.96
+770,28,Médico,113193.56
+771,51,Motorista,65706.11
+772,59,Designer,43787.17
+773,24,Designer,138638.32
+774,26,Advogado,60033.9
+775,55,Analista de Dados,145934.57
+776,54,Advogado,106239.18
+777,29,Analista de Dados,196945.03
+778,40,Motorista,66609.9
+779,51,Engenheiro,59883.83
+780,53,Designer,159590.86
+781,31,Médico,77166.51
+782,46,Engenheiro,152392.81
+783,42,Desenvolvedor,137440.63
+784,56,Vendedor,86290.33
+785,26,Motorista,89446.6
+786,51,Médico,157641.71
+787,25,Médico,141432.52
+788,64,Professor,153319.69
+789,55,Médico,187539.98
+790,62,Administrador,61593.88
+791,46,Vendedor,97202.76
+792,64,Motorista,193233.54
+793,47,Advogado,195299.8
+794,55,Professor,112155.76
+795,63,Engenheiro,197162.99
+796,51,Desenvolvedor,38933.47
+797,65,Professor,159528.61
+798,46,Motorista,93701.15
+799,36,Engenheiro,109231.11
+800,27,Motorista,21652.97
+801,20,Professor,173236.69
+802,46,Desenvolvedor,188639.3
+803,44,Analista de Dados,187355.84
+804,59,Desenvolvedor,103651.15
+805,43,Desenvolvedor,160320.48
+806,36,Motorista,123182.11
+807,36,Advogado,33421.3
+808,33,Desenvolvedor,20913.9
+809,40,Vendedor,137817.78
+810,34,Professor,33561.59
+811,58,Professor,52985.42
+812,45,Analista de Dados,126252.26
+813,31,Desenvolvedor,171831.61
+814,32,Médico,75245.87
+815,24,Engenheiro,159456.42
+816,48,Administrador,123530.09
+817,52,Motorista,196642.98
+818,40,Desenvolvedor,149394.76
+819,33,Advogado,152214.71
+820,56,Engenheiro,47503.96
+821,24,Analista de Dados,22623.31
+822,47,Administrador,38776.57
+823,63,Médico,55766.13
+824,48,Professor,128167.05
+825,45,Advogado,168788.71
+826,59,Administrador,81339.67
+827,40,Desenvolvedor,131697.81
+828,31,Designer,52376.46
+829,35,Analista de Dados,196435.36
+830,41,Analista de Dados,72183.02
+831,30,Engenheiro,56908.32
+832,61,Advogado,157945.27
+833,63,Engenheiro,53497.11
+834,27,Designer,59018.65
+835,33,Designer,149483.55
+836,59,Advogado,67246.11
+837,21,Desenvolvedor,45051.26
+838,56,Advogado,135533.56
+839,29,Analista de Dados,24535.66
+840,46,Médico,31422.37
+841,51,Médico,47563.24
+842,32,Analista de Dados,150239.25
+843,59,Motorista,56580.27
+844,54,Analista de Dados,100617.28
+845,31,Analista de Dados,65764.5
+846,62,Desenvolvedor,185659.9
+847,21,Administrador,73225.76
+848,62,Designer,141480.63
+849,24,Vendedor,178059.8
+850,38,Vendedor,89202.65
+851,34,Analista de Dados,96235.78
+852,55,Médico,160041.07
+853,63,Motorista,134064.27
+854,47,Motorista,102794.73
+855,53,Professor,192695.03
+856,29,Motorista,173422.07
+857,54,Motorista,135478.49
+858,41,Vendedor,47999.67
+859,19,Motorista,99461.5
+860,22,Motorista,148414.17
+861,44,Motorista,191431.74
+862,34,Advogado,63121.26
+863,52,Analista de Dados,38608.48
+864,30,Professor,161568.22
+865,46,Motorista,48852.83
+866,48,Desenvolvedor,196968.13
+867,62,Advogado,126222.43
+868,22,Motorista,57990.86
+869,51,Analista de Dados,148962.77
+870,65,Desenvolvedor,138428.27
+871,43,Professor,159672.26
+872,64,Professor,127526.15
+873,49,Vendedor,77586.47
+874,65,Designer,47589.61
+875,54,Desenvolvedor,88434.21
+876,38,Professor,112412.53
+877,38,Designer,36137.4
+878,35,Desenvolvedor,44938.0
+879,61,Professor,166897.62
+880,46,Professor,164689.86
+881,49,Desenvolvedor,143139.26
+882,19,Vendedor,159857.47
+883,19,Desenvolvedor,100378.34
+884,45,Engenheiro,153376.5
+885,23,Professor,58841.59
+886,64,Professor,65775.88
+887,21,Advogado,49043.71
+888,42,Médico,185536.85
+889,23,Analista de Dados,150825.59
+890,28,Desenvolvedor,168500.14
+891,36,Analista de Dados,124560.65
+892,19,Designer,179997.05
+893,47,Professor,121708.08
+894,40,Advogado,38683.69
+895,25,Advogado,51679.38
+896,42,Motorista,86319.22
+897,27,Desenvolvedor,30254.27
+898,43,Professor,85872.39
+899,55,Motorista,106783.87
+900,38,Administrador,190999.61
+901,52,Advogado,148321.87
+902,27,Administrador,54686.44
+903,45,Engenheiro,177883.61
+904,31,Motorista,108306.96
+905,37,Advogado,97574.12
+906,23,Analista de Dados,153014.2
+907,29,Engenheiro,176478.8
+908,36,Engenheiro,96146.77
+909,58,Administrador,77322.96
+910,23,Desenvolvedor,136680.14
+911,33,Advogado,50145.34
+912,58,Advogado,45672.66
+913,46,Médico,198866.8
+914,41,Professor,152872.2
+915,22,Professor,43525.08
+916,35,Médico,184222.45
+917,47,Advogado,135162.5
+918,56,Motorista,34471.97
+919,24,Administrador,96122.92
+920,36,Analista de Dados,173788.89
+921,25,Engenheiro,101712.57
+922,64,Administrador,98018.8
+923,63,Designer,159604.26
+924,40,Vendedor,100597.77
+925,38,Motorista,180636.47
+926,33,Analista de Dados,50587.89
+927,56,Professor,34385.46
+928,64,Analista de Dados,120083.12
+929,35,Professor,25521.42
+930,23,Professor,117951.19
+931,30,Advogado,38740.43
+932,58,Engenheiro,147251.78
+933,26,Vendedor,191950.77
+934,31,Designer,123408.86
+935,44,Advogado,116291.86
+936,60,Advogado,171547.2
+937,19,Vendedor,164756.19
+938,55,Analista de Dados,60475.21
+939,43,Analista de Dados,111414.69
+940,39,Professor,141172.31
+941,59,Advogado,101186.23
+942,41,Analista de Dados,173201.0
+943,26,Designer,109975.61
+944,61,Engenheiro,108122.78
+945,41,Professor,136074.39
+946,46,Designer,39388.11
+947,64,Professor,117701.17
+948,54,Médico,63697.16
+949,29,Analista de Dados,24251.13
+950,42,Motorista,135545.5
+951,41,Designer,158360.26
+952,36,Desenvolvedor,153428.73
+953,61,Motorista,190731.34
+954,27,Designer,155325.25
+955,49,Médico,96370.34
+956,64,Vendedor,40235.19
+957,58,Designer,144787.38
+958,20,Analista de Dados,63547.64
+959,52,Analista de Dados,131490.47
+960,25,Analista de Dados,133744.22
+961,24,Analista de Dados,94558.33
+962,33,Administrador,92984.34
+963,63,Designer,173422.5
+964,44,Analista de Dados,125466.58
+965,28,Analista de Dados,47821.79
+966,21,Desenvolvedor,85394.03
+967,62,Motorista,116126.36
+968,65,Médico,115655.91
+969,24,Designer,181049.26
+970,47,Administrador,66061.88
+971,36,Motorista,74383.86
+972,52,Designer,33909.39
+973,33,Engenheiro,190012.03
+974,19,Médico,146993.95
+975,33,Engenheiro,199210.49
+976,26,Médico,30071.55
+977,47,Desenvolvedor,164851.03
+978,61,Desenvolvedor,122243.07
+979,58,Administrador,160940.84
+980,49,Administrador,111997.72
+981,38,Administrador,186512.33
+982,42,Motorista,52340.45
+983,25,Vendedor,89583.53
+984,49,Engenheiro,82284.1
+985,37,Engenheiro,96727.28
+986,56,Analista de Dados,139004.77
+987,62,Designer,60791.97
+988,48,Médico,190214.1
+989,23,Analista de Dados,87432.88
+990,25,Analista de Dados,60952.74
+991,29,Médico,190948.37
+992,30,Administrador,47847.47
+993,60,Professor,90426.07
+994,33,Professor,69815.29
+995,48,Advogado,184111.3
+996,64,Desenvolvedor,179995.27
+997,46,Administrador,66509.63
+998,58,Designer,147631.8
+999,25,Designer,23068.12
+1000,63,Administrador,67318.31
