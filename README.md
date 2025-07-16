@@ -1,3 +1,3 @@
 # Testes---2025
 
-#Experimentando a bibliotec Pandas | pyautogui | Plotly.Express 
+#Experimentando a biblioteca Pandas | pyautogui | Plotly.Express 
